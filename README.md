@@ -5,6 +5,7 @@
 ## Experience
 - (2023.04.03 ~ 2023.12.14) [**SW Maestro 14th**](https://www.swmaestro.org/sw/main/main.do) | SW 마에스트로 14기 연수생
 - (2024.01.07 ~ ) [**AIKU**](https://github.com/AIKU-Official) | 고려대학교 정보대학 딥러닝학회 3기
+- (2024.06.01 ~ 2024.10.31) [**SKT AI Fellowship 6th**](https://www.sktaifellowship.com/) | SKT AI Fellowship 6기 - VPP를 위한 Object Insertion 기술 연구
 
 ## Awards
 - **2023 Uni-DTHON Hackathon Track - 3rd Place** | 2023 Uni-DTHON 해커톤 트랙 은상
